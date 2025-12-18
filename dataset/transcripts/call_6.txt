@@ -1,0 +1,8 @@
+Sales Agent: hi
+Customer: i'm from a b c c r m
+Sales Agent: do
+Customer: you currently use any crm software
+Sales Agent: yes but it slow and expensive
+Customer: our software is foster affordable and integrates with what's up
+Sales Agent: that's
+Customer: great can you send me a demo or ling

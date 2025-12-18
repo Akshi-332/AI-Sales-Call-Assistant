@@ -1,0 +1,17 @@
+Agent: Hello, this is Riya from SmartTech Mobiles. Are you looking to buy a new smartphone?
+Customer: Yes, my old phone has become very slow.
+Agent: No problem. Do you prefer Android or iPhone?
+Customer: I prefer Android for daily use and social media.
+Agent: Great choice! We have Samsung, OnePlus, and Xiaomi phones available.
+Customer: I’m interested in Samsung. Which models do you have?
+Agent: We have the Samsung Galaxy A14, Samsung Galaxy A34, and the Samsung Galaxy S23 series.
+Customer: What is the price of the A34?
+Agent: It starts at ₹19,999 with bank offers.
+Customer: Is the camera good?
+Agent: Yes, it has a 48MP camera with excellent night mode.
+Customer: How is the battery life?
+Agent: It has a 5000mAh battery that easily lasts a full day.
+Customer: Is EMI available?
+Agent: Yes, EMI starts from ₹1,800 per month.
+Customer: Okay, I’ll go with this model.
+Agent: Excellent choice! I’ll send you the purchase link right away.

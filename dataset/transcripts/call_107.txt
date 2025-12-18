@@ -1,0 +1,13 @@
+Agent: Hello, this is Audio Hub support. My name is Karan. How can I help you?
+Customer: I need wireless headphones for music and online meetings.
+Agent: Perfect. Do you prefer strong bass for music or clear voice quality for meetings?
+Customer: Both, actually.
+Agent: Then I highly recommend the Sony WH-1000XM5. It offers industry-leading noise cancellation and crystal-clear mic quality.
+Customer: How long does the battery last?
+Agent: Up to 30 hours on a single charge, and quick charge gives 3 hours of use in just 10 minutes.
+Customer: That sounds amazing. What about the price?
+Agent: It is available at ₹7,999 with current bank discounts.
+Customer: I was hoping for something cheaper.
+Agent: In that case, we also have a very reliable model at ₹4,999 with good bass and mic clarity.
+Customer: That fits my budget well.
+Agent: Great choice! I’ll place the order right away and you’ll receive delivery in 2–3 working days.

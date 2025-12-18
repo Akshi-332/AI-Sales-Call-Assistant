@@ -1,0 +1,460 @@
+filename,speaker,text,sentiment,emotion
+call_1.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_1.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_1.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_1.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_2.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_2.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_2.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_2.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_3.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_3.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_3.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_3.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_4.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_4.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_4.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_4.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_5.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_5.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_5.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_5.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_6.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_6.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_6.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_6.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_7.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_7.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_7.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_7.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_8.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_8.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_8.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_8.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_9.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_9.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_9.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_9.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_10.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_10.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_10.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_10.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_11.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_11.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_11.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_11.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_12.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_12.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_12.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_12.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_13.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_13.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_13.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_13.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_14.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_14.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_14.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_14.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_15.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_15.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_15.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_15.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_16.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_16.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_16.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_16.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_17.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_17.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_17.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_17.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_18.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_18.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_18.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_18.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_19.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_19.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_19.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_19.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_20.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_20.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_20.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_20.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_21.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_21.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_21.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_21.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_22.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_22.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_22.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_22.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_23.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_23.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_23.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_23.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_24.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_24.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_24.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_24.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_25.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_25.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_25.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_25.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_26.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_26.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_26.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_26.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_27.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_27.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_27.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_27.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_28.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_28.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_28.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_28.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_29.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_29.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_29.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_29.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_30.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_30.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_30.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_30.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_31.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_31.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_31.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_31.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_32.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_32.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_32.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_32.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_33.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_33.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_33.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_33.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_34.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_34.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_34.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_34.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_35.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_35.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_35.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_35.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_36.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_36.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_36.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_36.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_37.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_37.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_37.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_37.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_38.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_38.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_38.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_38.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_39.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_39.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_39.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_39.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_40.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_40.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_40.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_40.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_41.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_41.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_41.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_41.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_42.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_42.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_42.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_42.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_43.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_43.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_43.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_43.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_44.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_44.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_44.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_44.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_45.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_45.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_45.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_45.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_46.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_46.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_46.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_46.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_47.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_47.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_47.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_47.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_48.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_48.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_48.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_48.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_49.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_49.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_49.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_49.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_50.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_50.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_50.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_50.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_51.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_51.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_51.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_51.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_52.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_52.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_52.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_52.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_53.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_53.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_53.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_53.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_54.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_54.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_54.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_54.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_55.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_55.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_55.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_55.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_56.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_56.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_56.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_56.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_57.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_57.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_57.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_57.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_58.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_58.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_58.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_58.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_59.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_59.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_59.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_59.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_60.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_60.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_60.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_60.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_61.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_61.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_61.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_61.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_62.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_62.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_62.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_62.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_63.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_63.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_63.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_63.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_64.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_64.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_64.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_64.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_65.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_65.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_65.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_65.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_66.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_66.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_66.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_66.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_67.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_67.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_67.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_67.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_68.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_68.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_68.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_68.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_69.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_69.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_69.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_69.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_70.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_70.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_70.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_70.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_71.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_71.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_71.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_71.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_72.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_72.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_72.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_72.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_73.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_73.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_73.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_73.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_74.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_74.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_74.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_74.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_75.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_75.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_75.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_75.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_76.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_76.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_76.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_76.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_77.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_77.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_77.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_77.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_78.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_78.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_78.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_78.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_79.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_79.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_79.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_79.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_80.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_80.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_80.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_80.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_81.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_81.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_81.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_81.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_82.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_82.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_82.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_82.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_83.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_83.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_83.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_83.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_84.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_84.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_84.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_84.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_85.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_85.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_85.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_85.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_86.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_86.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_86.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_86.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_87.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_87.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_87.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_87.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_88.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_88.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_88.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_88.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_89.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_89.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_89.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_89.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_90.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_90.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_90.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_90.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_91.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_91.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_91.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_91.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_92.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_92.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_92.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_92.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_93.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_93.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_93.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_93.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_94.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_94.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_94.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_94.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_95.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_95.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_95.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_95.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_96.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_96.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_96.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_96.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_97.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_97.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_97.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_97.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_98.wav,agent,Hi! I’m from ABC CRM. Do you currently use any CRM software?,NEUTRAL,Calm
+call_98.wav,customer,"Yes, but it’s slow and expensive.",NEGATIVE,Frustrated
+call_98.wav,agent,"Our software is faster, affordable, and integrates with WhatsApp.",POSITIVE,Happy
+call_98.wav,customer,That’s great. Can you send me a demo link?,POSITIVE,Happy
+call_99.wav,agent,Hello! I’m calling from XYZ Insurance. How are you today?,NEUTRAL,Calm
+call_99.wav,customer,"I’m doing good, thank you. What is this about?",POSITIVE,Happy
+call_99.wav,agent,We’re offering a new health plan with flexible monthly pricing.,POSITIVE,Happy
+call_99.wav,customer,Sounds interesting. How much does it cost?,NEUTRAL,Calm
+call_100.wav,agent,"Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?",POSITIVE,Happy
+call_100.wav,customer,"Maybe, depends on the cost.",NEUTRAL,Calm
+call_100.wav,agent,We have a 50% discount this week on all new connections.,POSITIVE,Happy
+call_100.wav,customer,That’s a good offer. How can I apply?,POSITIVE,Happy
+call_4.wav,Customer,hi
+call_4.wav,Sales Agent,i'm from a b c c r m
+call_4.wav,Customer,do
+call_4.wav,Sales Agent,you currently use any crm software
+call_4.wav,Sales Agent,yes but it slow and expensive
+call_4.wav,Sales Agent,our software is foster affordable and integrates with what's up
+call_4.wav,Customer,that's
+call_4.wav,Sales Agent,great can you send me a demo or ling
+call_6.wav,Customer,hi
+call_6.wav,Sales Agent,i'm from a b c c r m
+call_6.wav,Customer,do
+call_6.wav,Sales Agent,you currently use any crm software
+call_6.wav,Sales Agent,yes but it slow and expensive
+call_6.wav,Sales Agent,our software is foster affordable and integrates with what's up
+call_6.wav,Customer,that's
+call_6.wav,Sales Agent,great can you send me a demo or ling
+call_6.wav,Sales Agent,hi
+call_6.wav,Customer,i'm from a b c c r m
+call_6.wav,Sales Agent,do
+call_6.wav,Customer,you currently use any crm software
+call_6.wav,Sales Agent,yes but it slow and expensive
+call_6.wav,Customer,our software is foster affordable and integrates with what's up
+call_6.wav,Sales Agent,that's
+call_6.wav,Customer,great can you send me a demo or ling
+call_1.wav,Sales Agent,hello
+call_1.wav,Customer,i'm calling from x y said insurance how are you today
+call_1.wav,Sales Agent,i'm
+call_1.wav,Customer,i'm doing good thank you
+call_1.wav,Sales Agent,which
+call_1.wav,Customer,is this about
+call_1.wav,Sales Agent,we're
+call_1.wav,Customer,offering a new health plan with flexible monthly pricing
+call_1.wav,Sales Agent,sounds
+call_1.wav,Customer,interesting how much does it cost
+call_2.wav,Sales Agent,hi
+call_2.wav,Customer,i'm from a b c c r m
+call_2.wav,Sales Agent,do
+call_2.wav,Customer,you currently use any crm software
+call_2.wav,Sales Agent,yes but it slow and expensive
+call_2.wav,Customer,our
+call_2.wav,Sales Agent,software is foster affordable and integrates with what's up
+call_2.wav,Customer,that's
+call_2.wav,Sales Agent,greed can you send me a damn or ling
+call_3.wav,Sales Agent,hello
+call_3.wav,Customer,this
+call_3.wav,Sales Agent,is mike from bright broadband are you interested in a foster plan
+call_3.wav,Customer,maybe
+call_3.wav,Sales Agent,depends on the cost
+call_3.wav,Customer,we
+call_3.wav,Sales Agent,have a fifty percent discount this week on all new connections
+call_3.wav,Customer,that's a good offer how can i apply
+call_8.wav,Sales Agent,hello
+call_8.wav,Customer,this
+call_8.wav,Sales Agent,is mike from bright broadband are you interested in a foster plan
+call_8.wav,Customer,maybe
+call_8.wav,Sales Agent,depends on the cost
+call_8.wav,Customer,we
+call_8.wav,Sales Agent,have a fifty percent discount this week on all new connections
+call_8.wav,Customer,that's a good offer how can i apply

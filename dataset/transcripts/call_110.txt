@@ -1,0 +1,13 @@
+Agent: Hello, welcome to Home Appliance Store. This is Suman. How can I assist you today?
+Customer: I’m planning to buy a new refrigerator for my home.
+Agent: Great! How many members are in your family?
+Customer: Four members.
+Agent: Then a 260–300 liter capacity fridge like the LG 260L Smart Inverter Refrigerator is ideal.
+Customer: Does it save electricity?
+Agent: Yes, it is 4-star and 5-star energy rated and uses inverter compressor technology.
+Customer: What about cooling performance?
+Agent: It provides fast and uniform cooling even during power fluctuations.
+Customer: What is the starting price?
+Agent: Prices start from ₹24,000 with home delivery included.
+Customer: I’ll go with this model.
+Agent: Excellent choice! I’ll arrange delivery and installation for you.

@@ -1,0 +1,10 @@
+streamlit
+sounddevice
+wavio
+numpy
+vosk
+inaSpeechSegmenter
+pydub
+transformers
+torch
+

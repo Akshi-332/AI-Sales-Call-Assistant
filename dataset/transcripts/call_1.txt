@@ -1,0 +1,10 @@
+Sales Agent: hello
+Customer: i'm calling from x y said insurance how are you today
+Sales Agent: i'm
+Customer: i'm doing good thank you
+Sales Agent: which
+Customer: is this about
+Sales Agent: we're
+Customer: offering a new health plan with flexible monthly pricing
+Sales Agent: sounds
+Customer: interesting how much does it cost

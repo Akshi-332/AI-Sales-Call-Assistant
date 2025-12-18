@@ -1,0 +1,21 @@
+Agent: Hello, this is Anjali from SmartTech Electronics. Are you looking to upgrade your smartphone?
+Customer: Yes, my current phone has become very slow.
+Agent: Then this is the perfect time! We have great offers on Samsung Galaxy and iPhone models.
+Customer: I’m interested in Samsung. Which models are available?
+Agent: We have the Galaxy S23, A54, and the new S23 FE.
+Customer: What is the price range?
+Agent: The A54 starts at ₹29,999 and the S23 is ₹74,999 with festival discounts.
+Customer: That feels expensive. Is exchange available?
+Agent: Yes, you can get up to ₹10,000 off with an exchange.
+Customer: How is the battery performance?
+Agent: The A54 has a 5000mAh battery that easily lasts all day.
+Customer: I use my phone for classes, videos, and social media.
+Agent: It’s perfect for that with 8GB RAM and strong performance.
+Customer: What about warranty?
+Agent: You get one-year warranty and free service at Samsung service centers across India.
+Customer: Can I buy it online?
+Agent: Yes, I’ll send you the purchase link on WhatsApp.
+Customer: Is EMI available?
+Agent: Yes, EMI starts from ₹2,500 per month with zero interest.
+Customer: Then I think I’ll go with the A54.
+Agent: Excellent choice! I’ll send you the full details now.

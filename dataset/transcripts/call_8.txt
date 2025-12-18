@@ -1,0 +1,8 @@
+Sales Agent: hello
+Customer: this
+Sales Agent: is mike from bright broadband are you interested in a foster plan
+Customer: maybe
+Sales Agent: depends on the cost
+Customer: we
+Sales Agent: have a fifty percent discount this week on all new connections
+Customer: that's a good offer how can i apply

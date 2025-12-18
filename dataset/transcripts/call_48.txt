@@ -1,0 +1,4 @@
+agent: Hi! I’m from ABC CRM. Do you currently use any CRM software?
+customer: Yes, but it’s slow and expensive.
+agent: Our software is faster, affordable, and integrates with WhatsApp.
+customer: That’s great. Can you send me a demo link?

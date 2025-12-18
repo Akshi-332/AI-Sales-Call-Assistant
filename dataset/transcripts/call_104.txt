@@ -1,0 +1,15 @@
+Agent: Hello, this is Sneha from ByteZone Computers. Are you planning to buy a new laptop?
+Customer: Yes, I need a laptop for my office work.
+Agent: That’s great. May I know your budget range?
+Customer: Around ₹60,000 to ₹70,000.
+Agent: Perfect! In this range, we have Dell, HP, and Lenovo laptops with Intel i5 processors.
+Customer: Which one is best for programming and daily office use?
+Agent: The Dell Inspiron with 16GB RAM is an excellent choice for coding and multitasking.
+Customer: What is the price?
+Agent: It is priced at ₹66,999 with a free backpack and wireless mouse.
+Customer: That sounds good. What about warranty?
+Agent: You get one-year standard warranty with an option to extend up to three years.
+Customer: Is EMI available?
+Agent: Yes, EMI starts from ₹5,500 per month.
+Customer: Okay, please send me the full specifications.
+Agent: Sure, I’ll send all the details on WhatsApp right now.

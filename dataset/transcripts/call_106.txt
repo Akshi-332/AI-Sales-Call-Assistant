@@ -1,0 +1,13 @@
+Agent: Hello, welcome to Vision Electronics. Are you looking to buy a smart TV?
+Customer: Yes, I need one for my living room.
+Agent: What screen size do you prefer?
+Customer: Around 43 inches.
+Agent: We have a popular 43-inch model, the Samsung Crystal 4K 43-inch.
+Customer: What is the price range?
+Agent: It starts from ₹27,000.
+Customer: Does it support Netflix and YouTube?
+Agent: Yes, all apps are supported.
+Customer: Is wall mounting included?
+Agent: Yes, installation is free.
+Customer: Okay, I’ll consider this model.
+Agent: I’ll send you the full details now.

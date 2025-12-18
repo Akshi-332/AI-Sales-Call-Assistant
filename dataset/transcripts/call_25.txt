@@ -1,0 +1,4 @@
+agent: Hello! I’m calling from XYZ Insurance. How are you today?
+customer: I’m doing good, thank you. What is this about?
+agent: We’re offering a new health plan with flexible monthly pricing.
+customer: Sounds interesting. How much does it cost?

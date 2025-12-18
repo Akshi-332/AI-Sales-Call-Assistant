@@ -1,0 +1,13 @@
+Agent: Hello, welcome to TechZone Laptops. This is Ramesh. How can I help you today?
+Customer: Hi, I need a laptop for my college programming and online classes.
+Agent: That’s great. You’ll need something fast and future-proof. I recommend the Lenovo IdeaPad Slim 5 with 16GB RAM and SSD storage.
+Customer: What is the starting price?
+Agent: It starts at ₹52,000 with original Windows pre-installed.
+Customer: Will it handle coding and multitasking smoothly?
+Agent: Absolutely. It runs Python, Java, and IDEs smoothly without lag.
+Customer: What about warranty?
+Agent: One-year standard warranty with optional extension up to three years.
+Customer: That sounds reliable.
+Agent: Yes, and it also includes fast charging and long battery life.
+Customer: Please send me the full specifications.
+Agent: Sure, I’m sending the complete details and student discount offer right now.

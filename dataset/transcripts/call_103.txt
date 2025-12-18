@@ -1,0 +1,15 @@
+Agent: Hello, this is Rahul from Bright Mobile Store. Are you looking to buy a new smartphone?
+Customer: Yes, my current phone is old, so I’m planning to upgrade.
+Agent: Great! We have a special offer today on the Samsung Galaxy S23.
+Customer: I’m looking for a phone with a good camera and smooth performance.
+Agent: This model is perfect for you. It has a powerful camera, fast performance, and long battery life.
+Customer: That sounds good. What is the price?
+Agent: The original price is ₹74,999, but today you can get it for ₹59,999 with bank cashback and no-cost EMI.
+Customer: That’s a good discount. What about warranty?
+Agent: You get one-year company warranty and free service at authorized Samsung service centers.
+Customer: Do you have an exchange option?
+Agent: Yes, you can get up to ₹10,000 off by exchanging your old phone.
+Customer: That’s great. How can I place the order?
+Agent: I can send you the purchase link on WhatsApp.
+Customer: Please send it. I’ll place the order today.
+Agent: Sure, I’ll send it right away.

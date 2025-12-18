@@ -1,0 +1,11 @@
+SAgent: Hello, this is Neha from TechWorld Store. Are you interested in buying a new laptop?
+Customer: Yes, I need one for my college and programming work.
+Agent: Great! We currently have HP Pavilion and Dell Inspiron with 16GB RAM, SSD, and Intel i7.
+Customer: That sounds good. What is the price?
+Agent: The price starts from ₹62,000 and goes up to ₹85,000 depending on the model.
+Customer: Can it handle Python and AI tools?
+Agent: Yes, it’s perfect for coding, AI, and multitasking.
+Customer: What about warranty?
+Agent: You get one year warranty with an option to extend it.
+Customer: Okay, please send me the details.
+Agent: Sure, I will send you the full details on WhatsApp.

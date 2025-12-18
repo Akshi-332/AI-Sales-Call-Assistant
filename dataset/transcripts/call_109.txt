@@ -1,0 +1,13 @@
+Agent: Hello, welcome to FitTech. This is Aman speaking. How can I assist you?
+Customer: I’m looking for a smartwatch mainly for fitness tracking.
+Agent: Great! I recommend the Noise ColorFit Pro 4. It’s one of our top fitness models.
+Customer: What features does it offer?
+Agent: It tracks heart rate, steps, sleep, SpO2, calories, and supports sports modes.
+Customer: How is the battery backup?
+Agent: Around 7 days on average use.
+Customer: What is the price range?
+Agent: Between ₹1,499 and ₹3,999 depending on offers.
+Customer: That’s affordable.
+Agent: Yes, and it also supports Android notifications and Bluetooth calling.
+Customer: I’ll go for this one.
+Agent: Perfect! Your order is confirmed.

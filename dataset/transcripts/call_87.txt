@@ -1,0 +1,4 @@
+agent: Hello, this is Mike from Bright Broadband. Are you interested in a faster plan?
+customer: Maybe, depends on the cost.
+agent: We have a 50% discount this week on all new connections.
+customer: That’s a good offer. How can I apply?
